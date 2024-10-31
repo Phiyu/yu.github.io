@@ -18,7 +18,7 @@ redirect_from:
 
 对天文和宇宙学比较感兴趣，但一无所知QAQ
 
-💗 $\LaTeX$, Markdown, Python (Leanring), eat, sleep
+💗 LaTeX, Markdown, Python (Leanring), eat, sleep
 
 除了吃就是睡，一摆一天啥也不会.
 
