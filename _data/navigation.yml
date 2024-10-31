@@ -5,23 +5,18 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "课程笔记"
+    url: /notes/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "课堂笔记"
+    url: /lnotes/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "考前复习"
+    url: /tm/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "试卷"
+    url: /testpaper/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "大雾资料"
+    url: /phyex/
+  
