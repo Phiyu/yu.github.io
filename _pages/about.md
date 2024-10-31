@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About this"
+title: "About this 关于这个页面"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 这是我的一个小小的个人主页，主要用于发布一些我个人写的笔记、资料，欢迎大家多多找我交流～
 
-## About Yu
+## About Yu 关于我
 📖 2023-?  Undergraduate at School of Physical Science, University of Science and Technology of China
 
 合肥科技大学物理学院的混子本科生.
@@ -22,7 +22,7 @@ redirect_from:
 
 除了吃就是睡，一摆一天啥也不会.
 
-## About the Archive
+## About the Archive 关于这个仓库
 📚这里有：
 - 23级大雾资料（接手学长并持续更新）
 - 个人笔记（不适合拿来学习，适合拿来嘲笑）
